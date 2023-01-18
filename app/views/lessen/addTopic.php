@@ -16,7 +16,7 @@
         <input type="hidden" name="id" value="<?= $data['id']; ?>">
         <input type="submit" value="Toevoeging">
     </form>
-    ss
+    sss
 </body>
 
 </html>
